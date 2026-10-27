@@ -1,0 +1,8 @@
+{
+  "name": "Aggarwal Trading",
+  "description": "Aggarwal Trading manufactures and supplies precision-moulded plastic furniture fittings, brackets, legs, caps, bushes and wall plugs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
